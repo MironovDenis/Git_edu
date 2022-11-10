@@ -48,3 +48,8 @@
 ![***FALLOUT***](https://images.stopgame.ru/blogs/2020/12/02/9zMqUbe.jpg)
 
 ## Ссылки
+Чтобы добавить ссылку в текст, можно заключть ее в угловые скобки (<>).
+Например <https://stopgame.ru>
+
+Можно добавить ссылку с названием.
+Например [***Bethesda так и не поняла Fallout***](https://stopgame.ru/blogs/topic/105640/bethesda_tak_i_ne_ponyala_fallout_ch_1)
